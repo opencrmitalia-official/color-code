@@ -12,7 +12,7 @@
 
 | Code | Link |
 | ---- | ---- |
-| 12   | [](images/code-12.png)
+| 12   | [12](images/code-12.png)
 | 13   |
 | 14   |
 | 21   |
